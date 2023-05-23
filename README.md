@@ -1,3 +1,3 @@
 # Snake
 
-https://atasilov.github.io/Snake/s
+https://atasilov.github.io/Snake/
